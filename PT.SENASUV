@@ -1,0 +1,5 @@
+mkdir PT_SENASURV
+cd PT_SENASURV
+npm init -y
+npm install express
+
